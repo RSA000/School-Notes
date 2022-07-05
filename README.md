@@ -23,7 +23,7 @@ This repo contains all of my current notes and lessons from various sources and 
     * Python Advanced Operator Mastery
 
         * A course going deeper into Python operators
-            * Includes how to overide operators in classes, as well as taking a deeper look in the exact functionality of Pythons Operators
+            * Includes how to overide operators in classes, as well as taking a deeper look in the exact functionality of Pythons operators
 
 * ##### [Python Mini-Projects](https://github.com/RSA000/School-Notes/tree/main/Python_Mini_Projects)
     * Poker Game
