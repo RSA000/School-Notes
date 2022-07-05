@@ -5,7 +5,7 @@ This repo contains all of my current notes and lessons from various sources and 
 
 #### Table Of Contents
 
-* ##### Finxter Academy
+* ##### Finxter Academy [Here](URL https://github.com/RSA000/School-Notes/tree/main/Finxter%20Academy )
     * Basic Computer Science Algorithms
         
         * A collection of various useful computer science algorithms demostrated in Python
