@@ -1,2 +1,37 @@
-# School-Notes-Finxter
-A collection of all my notes for Finxter Academy
+### School Notes
+
+#### Info:
+This repo contains all of my current notes and lessons from various sources and websites.
+
+#### Table Of Contents
+
+* ##### Finxter Academy
+    * Basic Computer Science Algorithms
+        
+        * A collection of various useful computer science algorithms demostrated in Python
+       
+        * Some examples are Levenstein distance, Binary Search, K-means, Rot13, Factorials, and Sieve of Eratosthenes.
+    
+    * Advanced Object Oriented Python Course
+       
+        * A course including more advanced topics on Python object oriented programming including:
+            * Inheritance
+            * Encapsulation
+            * Polymorphism
+            * Method Resolution Order
+
+    * Python Advanced Operator Mastery
+
+        * A course going deeper into Python operators
+            * Includes how to overide operators in classes, as well as taking a deeper look in the exact functionality of Pythons Operators
+
+* ##### Python Mini-Projects
+    * Poker Game
+     
+        * A poker hand analyser and dealer
+
+    * Canadian Car Collision Database
+        * A project with the intent of analyzing and collecting meaningful info as well as utilizing Pythons graphing librarys suchs as matplot and seaborn.
+
+    
+    
