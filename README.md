@@ -5,7 +5,7 @@ This repo contains all of my current notes and lessons from various sources and 
 
 #### Table Of Contents
 
-* ##### Finxter Academy [URL](https://github.com/RSA000/School-Notes/tree/main/Finxter%20Academy)
+* ##### [Finxter Academy](https://github.com/RSA000/School-Notes/tree/main/Finxter%20Academy)
     * Basic Computer Science Algorithms
         
         * A collection of various useful computer science algorithms demostrated in Python
@@ -25,7 +25,7 @@ This repo contains all of my current notes and lessons from various sources and 
         * A course going deeper into Python operators
             * Includes how to overide operators in classes, as well as taking a deeper look in the exact functionality of Pythons Operators
 
-* ##### Python Mini-Projects
+* ##### [Python Mini-Projects](https://github.com/RSA000/School-Notes/tree/main/Python_Mini_Projects)
     * Poker Game
      
         * A poker hand analyser and dealer
