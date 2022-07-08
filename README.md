@@ -25,10 +25,14 @@ This repo contains all of my current notes and lessons from various sources and 
         * A course going deeper into Python operators
             * Includes how to overide operators in classes, as well as taking a deeper look in the exact functionality of Pythons operators
 
+    * Top Ten Python One-Liners
+        * A Course designed to help comprehend compressed Python code and also utilize it.
+
 * ##### [Python Mini-Projects](https://github.com/RSA000/School-Notes/tree/main/Python_Mini_Projects)
     * Poker Game
      
         * A poker hand analyser and dealer
+        * Can run a basic 'game'
 
     * Canadian Car Collision Database
         * A project with the intent of analyzing and collecting meaningful info as well as utilizing Pythons graphing librarys suchs as matplot and seaborn.
