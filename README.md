@@ -39,7 +39,7 @@ This repo contains all of my current notes and lessons from various sources and 
 
 
 ##### [TeamTreeHouse Python Tech Degree](https://github.com/RSA000/School-Notes/tree/main/TeamTreeHouse/Python_Tech_Degree)
-    * [Project 1: Number Guessing Game](https://github.com/RSA000/School-Notes/tree/main/TeamTreeHouse/Python_Tech_Degree)
+    * Project 1: Number Guessing Game
         * Player can guess a number between chosen range.
         * Highscore system and game indicates if players guess is too high or low
 
