@@ -37,6 +37,16 @@ This repo contains all of my current notes and lessons from various sources and 
     * Canadian Car Collision Database
         * A project with the intent of analyzing and collecting meaningful info as well as utilizing Pythons graphing librarys suchs as matplot and seaborn.
 
+
+##### [TeamTreeHouse Python Tech Degree](https://github.com/RSA000/School-Notes/tree/main/TeamTreeHouse/Python_Tech_Degree)
+    * [Project 1: Number Guessing Game](https://github.com/RSA000/School-Notes/tree/main/TeamTreeHouse/Python_Tech_Degree)
+        * Player can guess a number between chosen range.
+        * Highscore system and game indicates if players guess is too high or low
+
+    * Project 2: BasketBall Stats Tool
+        * Involves cleaning data from players data and dividing players into teams evenly with even levels of experienced and inexperienced players.
+        * A menu that displays team stats including total number of players, heights, and number of experienced and inexperienced
     
-    
-s
+    * Project 3: PhraseHunting game:
+        * Notes include: 
+        * Like hangman

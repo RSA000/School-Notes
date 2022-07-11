@@ -3,10 +3,9 @@
 
 import random
 import os
-highscore = 10000
 
 def guessing_game(r):
-    global highscore
+    highscore = 100
     number = random.randint(1, r)
     guess = None
     attempts = 0
@@ -18,7 +17,6 @@ def guessing_game(r):
             os.system('clear')
             print('Thats not a number :/ \n')
             continue
-        
         if guess < 1 or guess > r:
             os.system('clear')
             print('Out of range :/')
