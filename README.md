@@ -30,7 +30,6 @@ This repo contains all of my current notes and lessons from various sources and 
 
 * ##### [Python Mini-Projects](https://github.com/RSA000/School-Notes/tree/main/Python_Mini_Projects)
     * Poker Game
-     
         * A poker hand analyser and dealer
         * Can run a basic 'game'
 
@@ -38,7 +37,8 @@ This repo contains all of my current notes and lessons from various sources and 
         * A project with the intent of analyzing and collecting meaningful info as well as utilizing Pythons graphing librarys suchs as matplot and seaborn.
 
 
-##### [TeamTreeHouse Python Tech Degree](https://github.com/RSA000/School-Notes/tree/main/TeamTreeHouse/Python_Tech_Degree)
+* ##### [TeamTreeHouse Python Tech Degree](https://github.com/RSA000/School-Notes/tree/main/TeamTreeHouse/Python_Tech_Degree)
+
     * Project 1: Number Guessing Game
         * Player can guess a number between chosen range.
         * Highscore system and game indicates if players guess is too high or low
