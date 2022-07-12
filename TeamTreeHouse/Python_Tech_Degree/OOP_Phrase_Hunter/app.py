@@ -1,7 +1,30 @@
 # Import your Game class
-import phrasehunter
-# Create your Dunder Main statement.
+from phrasehunter.game import Game
+import os
+import time
 
-# Inside Dunder Main:
-## Create an instance of your Game class
-## Start your game by calling the instance method that starts the game loop
+# Create your Dunder Main statement.
+if '__main__' == __name__:
+    while True:
+        game = Game()
+        game.reset()
+        game.start()
+        while True:
+            play_again = input('Play Again? Y/N: ').lower()
+            if play_again == 'y' or 'no':
+                if play_again == 'y':
+                    break
+                elif play_again == 'n':
+                    break
+                else:
+                    os.system('clear')
+                    print('Invalid Choice')
+                    time.sleep(1)
+                    os.system('clear')
+                    continue
+        if play_again == 'y':
+            continue
+        elif play_again == 'n':
+            os.system('clear')
+            print('Thanks For Playing!')
+            break
