@@ -5,8 +5,11 @@ import time
 
 # Create your Dunder Main statement.
 if '__main__' == __name__:
+    phrases = ['This old world is a new world', 'something something darkside',
+               'The best laid plans of mice and men', 'simple is better then complex',
+               'complex is better then complicated']
     while True:
-        game = Game()
+        game = Game(phrases)
         game.reset()
         game.start()
         while True:

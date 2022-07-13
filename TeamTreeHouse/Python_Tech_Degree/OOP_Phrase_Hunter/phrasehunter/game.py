@@ -1,25 +1,23 @@
 # Create your Game class logic in here.
-from curses.ascii import isalnum, isalpha
 from phrasehunter.phrase import Phrase
 import random
 import os
 import time
 
 class Game():
-    phrases = ['the best laid plans of mice and men', 'something something something darkside',
-                'there is no exquisite beauty without some strangeness to the proportions',
-                'this old world is a new world', 'I became insane with long intervals of horrible sanity', 
-                ]
     active_phrase = None
     guesses = [' ']
-    missed = 5
+    missed = 0
+
+    def __init__(self, phrases):
+        self.phrases = [Phrase(phrase) for phrase in phrases]
 
     def welcome(self):
         print('Welcome To The Phrase Guessing Game! \n')
     
 
     def get_random_phrase(self):
-        self.active_phrase = Phrase((random.choice(self.phrases)))
+        self.active_phrase = random.choice(self.phrases)
 
 
     def get_guess(self):
@@ -34,8 +32,8 @@ class Game():
             self.guesses.append(guess)
         else:
             self.guesses.append(guess)
-            self.missed -= 1
-            print(f'\n Not in phrase :/ \n lives left: {self.missed}')
+            self.missed += 1
+            print(f'\n Not in phrase :/ \n lives left: {5 - self.missed}')
             time.sleep(1.5)
 
 
@@ -51,7 +49,7 @@ class Game():
         self.welcome()
         self.get_random_phrase()
         print(self.active_phrase.display(self.guesses))
-        while self.missed > 0:
+        while self.missed < 5:
             self.get_guess()
             os.system('clear')
             print(self.active_phrase.display(self.guesses))
