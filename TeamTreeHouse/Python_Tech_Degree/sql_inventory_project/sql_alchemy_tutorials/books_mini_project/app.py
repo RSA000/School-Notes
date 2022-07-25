@@ -24,6 +24,23 @@ def menu():
             \rPress any key to continue
             ''')
 
+def submenu():
+    while True:
+        print('''
+        \n PROGRAMMING BOOKS
+        \r1) edit
+        \r2) delete
+        \r3) return to main menu''')
+        choice = input('\nPlease Choose an option: ')
+        if choice in ['1', '2', '3']:
+            return choice
+        else:
+            input('''
+            \rPlease Choose one of the options above (1-3)
+            \rPress any key to continue
+            ''')
+
+
 # add books to database
 def add_csv():
     with open('suggested_books.csv') as csvfile:
@@ -38,8 +55,30 @@ def add_csv():
                 new_book = Book(title=title, author=author, published_date=date, price=price)
                 session.add(new_book)
         session.commit()
-# edit and delete books
-# search books
+        
+
+def edit_check(column_name, current_value):
+    print(f'\n EDIT {column_name}')
+    if column_name == 'Price':
+        print(f'\rCurrent Value: {current_value/100}')
+    elif column_name == 'Date':
+        print(f'\rCurrent Value: {current_value.strftime("%B %d %Y")}')
+    else:
+        print(f'\rCurrent Value: {current_value}')
+
+    if column_name == 'Date' or column_name == 'Price':
+        while True:
+            changes = input('What would like to change the value to?')
+            if column_name == 'Date':
+                changes = clean_date(changes)
+                if type(changes) == datetime.date:
+                    return changes
+            elif column_name == 'Price':
+                changes = clean_price(changes)
+                if type(changes) == int:
+                    return changes
+    else:
+        return input('What would like to change the value to?')
 
 
 def clean_date(date_str):
@@ -59,11 +98,9 @@ def clean_date(date_str):
         The Date format should include a valid Month
         EX: January 13, 2003
          ''')
-        return
     else:
         return return_date
     
-
 
 def clean_price(price_str):
     try:
@@ -76,6 +113,29 @@ def clean_price(price_str):
         return
     else:
         return int(price_float * 100)
+
+def clean_id(id_str, options):
+    try:
+        book_id = int(id_str)
+    except ValueError:
+        input(''' ID ERROR
+                ID Should be a number
+                press any key to continue
+                ''')
+        return
+    else:
+        if book_id in options:
+            return book_id
+        else:
+            input('''
+            INPUT ERROR
+            ID Not on file
+            press any key to continue
+            ''')
+            return
+
+
+
 def app():
     app_running = True
     while app_running:
@@ -106,11 +166,48 @@ def app():
                 print(f'{book.id} | {book.title} | {book.author} | {book.published_date} | {book.price}')
             input('\n Press any key to continue')
         elif choice == '3':
-            # search
-            pass
+            id_options = [book.id for book in session.query(Book)]
+            id_error = True
+            while id_error:
+                id_choice = input(f'''
+                \n Id Options: {id_options}
+                \rBook id: 
+                ''')
+                id_choice = clean_id(id_choice, id_options)
+                if type(id_choice) == int:
+                    id_error = False
+            the_book = session.query(Book).filter(Book.id==id_choice).first()
+            print(f'''
+            \n{the_book.title} by {the_book.author} published on {the_book.published_date} for {the_book.price}
+            ''')
+            sub_choice = submenu()
+            if sub_choice == '1':
+                the_book.title = edit_check('Title', the_book.title)
+                the_book.author = edit_check('Author', the_book.author)
+                the_book.published_date = edit_check('Date', the_book.published_date)
+                the_book.price = edit_check('Price', the_book.price)
+                session.commit()
+                print('Book Updated!')
+                time.sleep(2)
+            elif sub_choice == '2':
+                session.delete(the_book)
+                session.commit()
+                print('Book Deleted')
+                time.sleep(1.5)
         elif choice == '4':
             # analysis
-            pass
+            oldest_book = session.query(Book).order_by(Book.published_date).first()
+            newest_book = session.query(Book).order_by(Book.published_date.desc()).first()
+            total_books = session.query(Book).count()
+            python_books = session.query(Book).filter(Book.title.like('%Python%')).count()
+            print(f'''
+            \n BOOK ANALYSIS \n
+            \r * Oldest Book: {oldest_book} \n 
+            \r *  Neweest Book: {newest_book} \n 
+            \r * Total Books: {total_books} \n 
+            \r * Number of Python Books: {python_books}
+            ''')
+            input('press any key to continue')
         elif choice == '5':
             print('GOODBYE')
             app_running = False
