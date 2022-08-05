@@ -1,0 +1,28 @@
+{% extends 'layout.html' %}
+  {% block content %}
+        <section class="header">
+            <h1>Richard Sullivan Andison</h1>
+            <p>Freelance Data Scientist</p>
+            
+            <img src="/static/images/photo.png" alt="Headshot of myself">
+        </section>
+        <section id="about-page">
+            <div id="triangle7"></div>
+            <div id="triangle8"></div>
+            <h2>More About Me</h2>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/2IcjFXyaIqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+            <p>
+                Hello! My friends call be Sully! I'm currently employed at Safeway in Trail, BC. In a few weeks I'll be working at Rustic Crust, making gelato and woodfired pizza.
+                My previous work experience is mostly in kitchens and I have completed my first year of professional cooking at Selkirk College. My current aspiration is to become a
+                freelance datascientist and programmer. I feel like I'm well on my way and after I complete my current course, I intend to learn more about computer science and lower
+                level programming languages such as C and Assembly Language in the future. 
+            </p>
+            <p>
+                My hobbies outside of programming include music theory and playing instruments. I can play guitar and bass fairly well as well as a little bit of piano.
+                I want to travel a lot and live by the sea in the future and I'm a big fan of public transportation and train/bus infrastructure. 
+                You can find a link to my resume below. 
+            </p>
+            <a href="{{url_for('download_file')}}"><i class="far fa-file"></i>Resume</a>
+        </section>
+    {% endblock %}

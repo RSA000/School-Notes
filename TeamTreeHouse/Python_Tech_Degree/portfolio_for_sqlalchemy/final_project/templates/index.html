@@ -1,0 +1,75 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+        <section class="header">
+            <h1>Python Developer</h1>
+            <p>Python Rules!.</p>
+            <img src="/static/images/photo.png" alt="Headshot of myself" type="image/png">
+        </section>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>
+                Hello! I am an aspiring Datascientist. My hobbies include, programming, music theory, and guitar. If you'd like to know more about me, please check out the link below.
+            </p>
+            <a href="{{url_for('about')}}" style="color:#ffffff;">
+                <i class="fas fa-link" ></i>
+                 More About Me 
+            </a>
+
+            <div id="triangle1"></div>
+            <div id="triangle2"></div>
+        </section>
+        <section id="skills">
+            <i class="fas fa-laptop-code"></i>
+            <h2>Skills</h2>
+            <ul>
+                <li>Python</li>
+                <li>SQL</li>
+                <li>Flask</li>
+                <li>SQLAlchemy</li>
+                <li>Pandas</li>
+                <li>Numpy</li>
+                <li>GitHub</li>
+                <li>Visual Studio Code</li>
+                <li>Jupyter Lab</li>
+            </ul>
+        </section>
+        <section id="projects">
+            <div id="triangle3"></div>
+            <i class="fas fa-file-code"></i>
+
+            <h2>Projects</h2>
+            <div id="project-list">
+                    {% for project in projects %}
+                <div id={{project.id}} class="a-project">
+                        <a href="/projects/{{project.id}}" style="color:#51475c; font-size: 30px;">{{project.title}}
+                            <i class="fas fa-link"></i>
+                        </a> <br>
+                    <a href={{project.url}} class="github-btn">
+                        <i class="fab fa-github"></i>
+                        View on GitHub
+                    </a>
+                    <p>
+                        {{project.description}} 
+                    </p>
+                    <p>
+                        {{project.skills}}
+                    </p>
+                </div>
+                    {% endfor %}
+
+            <div id="triangle4"></div>
+        </section>
+        <section id="contact">
+            <i class="fas fa-paper-plane"></i>
+            <h2>Contact Me</h2>
+            <p>
+                If you would like to contact me, please check below!
+            </p>
+            <p>
+                <i class="fas fa-envelope"></i>
+                andisonsully@hotmail.com
+            </p>
+        </section>
+      </div>
+    {% endblock %}
