@@ -1,0 +1,16 @@
+#include "cs50.c"
+#include <stdio.h>
+
+int main(void)
+{
+    // Prompt user for x
+    float x = get_float("x: ");
+
+    // Prompt user for y
+    float y = get_float("Y: ");
+
+    // Divide x by y
+    float z = x / y;
+
+    printf("%.10f\n", z);
+}
