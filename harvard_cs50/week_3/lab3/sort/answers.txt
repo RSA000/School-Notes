@@ -1,0 +1,45 @@
+sort1 uses: bubble sort
+
+How do you know?:
+----------------------------------------------------------------------------------------
+runtime with reversed10000: 0.368s
+with random, the time increases x2.48
+with reversed, the time increases x3.67 big O largest increase in time O(n^2)
+with sorted, the time increases by about x1.37 Omega lower bound small increases the least
+bubble sort may be the quickest of the three to check if a list is sorted if modified a little
+Bubble sort is overall the slowest.
+----------------------------------------------------------------------------------------
+Bubble sort has the largest big O which is in line with bubble sort having the largest.
+Other observations are that bubble sort has the lowest increase in time when dealing with a perfect scenario
+of a list being sorted.
+----------------------------------------------------------------------------------------
+sort2 uses: merge sort
+
+How do you know?:
+----------------------------------------------------------------------------------------
+runtime with reversed10000: 0.086
+with random, the time increases by x2.04
+with reversed, the time increases almost x1.75 - smallest increase in time O(log n)
+with sorted, the time increases by 3.58 omega(n)
+----------------------------------------------------------------------------------------
+Since I know merge sort has a big O of (n log n), I can assume this is merge sort since it is the lowest of the three
+(which both have a On^2)
+Other observations, the time increase for sorted increases about the same with selection sort
+Merge sort also has the quickest runtime with reversed10000 (worst case scenario)
+----------------------------------------------------------------------------------------
+sort3 uses: selection sort
+
+How do you know?:
+----------------------------------------------------------------------------------------
+time with reversed10000: 0.215
+with random, the time increases by x1.38
+with reversed, the time increases by x1.87 - Big O(n^2) second smallest
+with sorted, the time increases by 3.54 - Omega
+selection sort is also slightly faster than Bubble sort
+----------------------------------------------------------------------------------------
+Selection sort has the second smallest big 0 notation so I figured that this was selection sort.
+Other observations include that selection sort has the smallest increase in time when dealing with the random5000/10000.txt
+Can you differientiate bubble and select sort by the time it takes to get through a sorted list.
+time for sorted in select: 0.196s
+time for sorted in bubble: 0.090s
+almost twice as long!
