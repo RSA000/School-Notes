@@ -1,0 +1,629 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C72C91BF293BC5EC00A6EC8E /* MainMenview.swift in Sources */ = {isa = PBXBuildFile; fileRef = C72C91BE293BC5EC00A6EC8E /* MainMenview.swift */; };
+		C72C91C1293BCC8D00A6EC8E /* RedeemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C72C91C0293BCC8D00A6EC8E /* RedeemView.swift */; };
+		C72C91C3293BCCA800A6EC8E /* PointsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C72C91C2293BCCA800A6EC8E /* PointsView.swift */; };
+		C72C91C5293EBFCD00A6EC8E /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = C72C91C4293EBFCD00A6EC8E /* SplashScreen.swift */; };
+		C77280E22939B0C200479538 /* rustic_rewards_4App.swift in Sources */ = {isa = PBXBuildFile; fileRef = C77280E12939B0C200479538 /* rustic_rewards_4App.swift */; };
+		C77280E42939B0C200479538 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C77280E32939B0C200479538 /* ContentView.swift */; };
+		C77280E62939B0C400479538 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C77280E52939B0C400479538 /* Assets.xcassets */; };
+		C77280E92939B0C400479538 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C77280E82939B0C400479538 /* Preview Assets.xcassets */; };
+		C772810D2939D62A00479538 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = C772810C2939D62A00479538 /* FirebaseAuth */; };
+		C772810F2939D62A00479538 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = C772810E2939D62A00479538 /* FirebaseFirestore */; };
+		C77281132939D78100479538 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C77281122939D78100479538 /* GoogleService-Info.plist */; };
+		C7728115293A6EAE00479538 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7728114293A6EAE00479538 /* ListView.swift */; };
+		C7728117293A70A600479538 /* pizza.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7728116293A70A600479538 /* pizza.swift */; };
+		C7728119293A72DF00479538 /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7728118293A72DF00479538 /* DataManager.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		C77280EF2939B0C400479538 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C77280D62939B0C200479538 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C77280DD2939B0C200479538;
+			remoteInfo = rustic_rewards_4;
+		};
+		C77280F92939B0C400479538 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C77280D62939B0C200479538 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C77280DD2939B0C200479538;
+			remoteInfo = rustic_rewards_4;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		C72C91BE293BC5EC00A6EC8E /* MainMenview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainMenview.swift; sourceTree = "<group>"; };
+		C72C91C0293BCC8D00A6EC8E /* RedeemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedeemView.swift; sourceTree = "<group>"; };
+		C72C91C2293BCCA800A6EC8E /* PointsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PointsView.swift; sourceTree = "<group>"; };
+		C72C91C4293EBFCD00A6EC8E /* SplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen.swift; sourceTree = "<group>"; };
+		C77280DE2939B0C200479538 /* rustic_rewards_4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = rustic_rewards_4.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C77280E12939B0C200479538 /* rustic_rewards_4App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rustic_rewards_4App.swift; sourceTree = "<group>"; };
+		C77280E32939B0C200479538 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		C77280E52939B0C400479538 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C77280E82939B0C400479538 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C77280EE2939B0C400479538 /* rustic_rewards_4Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = rustic_rewards_4Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C77280F82939B0C400479538 /* rustic_rewards_4UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = rustic_rewards_4UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C77281122939D78100479538 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		C7728114293A6EAE00479538 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
+		C7728116293A70A600479538 /* pizza.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pizza.swift; sourceTree = "<group>"; };
+		C7728118293A72DF00479538 /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C77280DB2939B0C200479538 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C772810D2939D62A00479538 /* FirebaseAuth in Frameworks */,
+				C772810F2939D62A00479538 /* FirebaseFirestore in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C77280EB2939B0C400479538 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C77280F52939B0C400479538 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C77280D52939B0C200479538 = {
+			isa = PBXGroup;
+			children = (
+				C77280E02939B0C200479538 /* rustic_rewards_4 */,
+				C77280DF2939B0C200479538 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C77280DF2939B0C200479538 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C77280DE2939B0C200479538 /* rustic_rewards_4.app */,
+				C77280EE2939B0C400479538 /* rustic_rewards_4Tests.xctest */,
+				C77280F82939B0C400479538 /* rustic_rewards_4UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C77280E02939B0C200479538 /* rustic_rewards_4 */ = {
+			isa = PBXGroup;
+			children = (
+				C72C91BE293BC5EC00A6EC8E /* MainMenview.swift */,
+				C72C91C0293BCC8D00A6EC8E /* RedeemView.swift */,
+				C72C91C2293BCCA800A6EC8E /* PointsView.swift */,
+				C72C91C4293EBFCD00A6EC8E /* SplashScreen.swift */,
+				C7728114293A6EAE00479538 /* ListView.swift */,
+				C77280E12939B0C200479538 /* rustic_rewards_4App.swift */,
+				C77280E32939B0C200479538 /* ContentView.swift */,
+				C7728116293A70A600479538 /* pizza.swift */,
+				C7728118293A72DF00479538 /* DataManager.swift */,
+				C77280E52939B0C400479538 /* Assets.xcassets */,
+				C77281122939D78100479538 /* GoogleService-Info.plist */,
+				C77280E72939B0C400479538 /* Preview Content */,
+			);
+			path = rustic_rewards_4;
+			sourceTree = "<group>";
+		};
+		C77280E72939B0C400479538 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				C77280E82939B0C400479538 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C77280DD2939B0C200479538 /* rustic_rewards_4 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C77281022939B0C400479538 /* Build configuration list for PBXNativeTarget "rustic_rewards_4" */;
+			buildPhases = (
+				C77280DA2939B0C200479538 /* Sources */,
+				C77280DB2939B0C200479538 /* Frameworks */,
+				C77280DC2939B0C200479538 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = rustic_rewards_4;
+			packageProductDependencies = (
+				C772810C2939D62A00479538 /* FirebaseAuth */,
+				C772810E2939D62A00479538 /* FirebaseFirestore */,
+			);
+			productName = rustic_rewards_4;
+			productReference = C77280DE2939B0C200479538 /* rustic_rewards_4.app */;
+			productType = "com.apple.product-type.application";
+		};
+		C77280ED2939B0C400479538 /* rustic_rewards_4Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C77281052939B0C400479538 /* Build configuration list for PBXNativeTarget "rustic_rewards_4Tests" */;
+			buildPhases = (
+				C77280EA2939B0C400479538 /* Sources */,
+				C77280EB2939B0C400479538 /* Frameworks */,
+				C77280EC2939B0C400479538 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C77280F02939B0C400479538 /* PBXTargetDependency */,
+			);
+			name = rustic_rewards_4Tests;
+			productName = rustic_rewards_4Tests;
+			productReference = C77280EE2939B0C400479538 /* rustic_rewards_4Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		C77280F72939B0C400479538 /* rustic_rewards_4UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C77281082939B0C400479538 /* Build configuration list for PBXNativeTarget "rustic_rewards_4UITests" */;
+			buildPhases = (
+				C77280F42939B0C400479538 /* Sources */,
+				C77280F52939B0C400479538 /* Frameworks */,
+				C77280F62939B0C400479538 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C77280FA2939B0C400479538 /* PBXTargetDependency */,
+			);
+			name = rustic_rewards_4UITests;
+			productName = rustic_rewards_4UITests;
+			productReference = C77280F82939B0C400479538 /* rustic_rewards_4UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C77280D62939B0C200479538 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1410;
+				LastUpgradeCheck = 1410;
+				TargetAttributes = {
+					C77280DD2939B0C200479538 = {
+						CreatedOnToolsVersion = 14.1;
+					};
+					C77280ED2939B0C400479538 = {
+						CreatedOnToolsVersion = 14.1;
+						TestTargetID = C77280DD2939B0C200479538;
+					};
+					C77280F72939B0C400479538 = {
+						CreatedOnToolsVersion = 14.1;
+						TestTargetID = C77280DD2939B0C200479538;
+					};
+				};
+			};
+			buildConfigurationList = C77280D92939B0C200479538 /* Build configuration list for PBXProject "rustic_rewards_4" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C77280D52939B0C200479538;
+			packageReferences = (
+				C772810B2939D62A00479538 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
+			productRefGroup = C77280DF2939B0C200479538 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C77280DD2939B0C200479538 /* rustic_rewards_4 */,
+				C77280ED2939B0C400479538 /* rustic_rewards_4Tests */,
+				C77280F72939B0C400479538 /* rustic_rewards_4UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C77280DC2939B0C200479538 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C77280E92939B0C400479538 /* Preview Assets.xcassets in Resources */,
+				C77280E62939B0C400479538 /* Assets.xcassets in Resources */,
+				C77281132939D78100479538 /* GoogleService-Info.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C77280EC2939B0C400479538 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C77280F62939B0C400479538 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C77280DA2939B0C200479538 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C72C91C5293EBFCD00A6EC8E /* SplashScreen.swift in Sources */,
+				C7728117293A70A600479538 /* pizza.swift in Sources */,
+				C7728119293A72DF00479538 /* DataManager.swift in Sources */,
+				C72C91C1293BCC8D00A6EC8E /* RedeemView.swift in Sources */,
+				C72C91C3293BCCA800A6EC8E /* PointsView.swift in Sources */,
+				C72C91BF293BC5EC00A6EC8E /* MainMenview.swift in Sources */,
+				C77280E42939B0C200479538 /* ContentView.swift in Sources */,
+				C77280E22939B0C200479538 /* rustic_rewards_4App.swift in Sources */,
+				C7728115293A6EAE00479538 /* ListView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C77280EA2939B0C400479538 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C77280F42939B0C400479538 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		C77280F02939B0C400479538 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C77280DD2939B0C200479538 /* rustic_rewards_4 */;
+			targetProxy = C77280EF2939B0C400479538 /* PBXContainerItemProxy */;
+		};
+		C77280FA2939B0C400479538 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C77280DD2939B0C200479538 /* rustic_rewards_4 */;
+			targetProxy = C77280F92939B0C400479538 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		C77281002939B0C400479538 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		C77281012939B0C400479538 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C77281032939B0C400479538 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"rustic_rewards_4/Preview Content\"";
+				DEVELOPMENT_TEAM = DV95K8A3PA;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "rustic.rustic-rewards-4";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		C77281042939B0C400479538 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"rustic_rewards_4/Preview Content\"";
+				DEVELOPMENT_TEAM = DV95K8A3PA;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "rustic.rustic-rewards-4";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		C77281062939B0C400479538 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "rustic.rustic-rewards-4Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/rustic_rewards_4.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/rustic_rewards_4";
+			};
+			name = Debug;
+		};
+		C77281072939B0C400479538 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "rustic.rustic-rewards-4Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/rustic_rewards_4.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/rustic_rewards_4";
+			};
+			name = Release;
+		};
+		C77281092939B0C400479538 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "rustic.rustic-rewards-4UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = rustic_rewards_4;
+			};
+			name = Debug;
+		};
+		C772810A2939B0C400479538 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "rustic.rustic-rewards-4UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = rustic_rewards_4;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C77280D92939B0C200479538 /* Build configuration list for PBXProject "rustic_rewards_4" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C77281002939B0C400479538 /* Debug */,
+				C77281012939B0C400479538 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C77281022939B0C400479538 /* Build configuration list for PBXNativeTarget "rustic_rewards_4" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C77281032939B0C400479538 /* Debug */,
+				C77281042939B0C400479538 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C77281052939B0C400479538 /* Build configuration list for PBXNativeTarget "rustic_rewards_4Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C77281062939B0C400479538 /* Debug */,
+				C77281072939B0C400479538 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C77281082939B0C400479538 /* Build configuration list for PBXNativeTarget "rustic_rewards_4UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C77281092939B0C400479538 /* Debug */,
+				C772810A2939B0C400479538 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		C772810B2939D62A00479538 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		C772810C2939D62A00479538 /* FirebaseAuth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = C772810B2939D62A00479538 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
+		};
+		C772810E2939D62A00479538 /* FirebaseFirestore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = C772810B2939D62A00479538 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseFirestore;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = C77280D62939B0C200479538 /* Project object */;
+}
