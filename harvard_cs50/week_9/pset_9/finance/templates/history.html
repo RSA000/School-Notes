@@ -1,0 +1,30 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Index
+{% endblock %}
+
+{% block main %}
+
+<table class="table table-striped">
+    <tr>
+        <th>Transaction ID</th>
+        <th>Stock Symbol</th>
+        <th>Buy = 1 Sell = 0</th>
+        <th>Amount</th>
+        <th>Cost</th>
+        <th>Time</th>
+
+    </tr>
+    {% for i in range(len(history)) %}
+    <tr>
+        <th>{{history[i]["transaction_id"]}}</th>
+        <th>{{history[i]["stock_symbol"]}}</th>
+        <th>{{history[i]["buy_sell"]}}</th>
+        <th>{{history[i]["amount"]}}</th>
+        <th>{{usd(history[i]["cost"])}}</th>
+        <th>{{history[i]["time"]}}</th>
+    </tr>
+    {% endfor %}
+</table>
+{% endblock %}

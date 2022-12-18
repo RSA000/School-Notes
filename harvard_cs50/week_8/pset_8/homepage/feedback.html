@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <!-- header, bootstrap and javascript for bootstrap as well as importing stylesheet and viewport -->
+    <head>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+        <link href="styles.css" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title >My CS50 Webpage</title>
+    </head>
+    <body>
+        <h1> Feedback </h1>
+
+        <div class="dropdown">
+            <button>Navigation</button>
+
+            <div class="dropdown-content">
+                <a href="index.html"> Home </a>
+                <a href="about.html"> About </a>
+                <a href="projects.html"> Projects </a>
+                <a href="feedback.html"> Feedback </a>
+            </div>
+        </div>
+        <!-- feedback portion of site -->
+        <form>
+            <h4> Please send your feedback here! </h4>
+            <textarea id="feedback1" style="width: 300px; height: 250px;"> </textarea>
+        </form>
+        <input id="submit_button" class="btn btn-primary" type="button" value="Submit" style="height: 40px; width:90px">
+
+        <p id="submit_verify" ></p>
+        <!-- script for submitting, doesn't actually record answer but does get text written -->
+       <script src="logic.js"></script>
+       <!-- footer -->
+        <footer>
+            <p> No copyright whatsover so take whatever your like! </p>
+        </footer>
+    </body>
+
+</html>
