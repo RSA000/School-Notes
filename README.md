@@ -4,7 +4,7 @@
 This repo contains all of my current notes and lessons from various sources and websites.
 
 #### Table Of Contents
-
+ 
 * ##### [Finxter Academy](https://github.com/RSA000/School-Notes/tree/main/Finxter%20Academy)
     * Basic Computer Science Algorithms
         
