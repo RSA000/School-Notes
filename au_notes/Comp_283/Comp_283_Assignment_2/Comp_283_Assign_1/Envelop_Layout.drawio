@@ -1,0 +1,319 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Page-1" id="LMpZyMOKqFchme9qckHQ">
+    <mxGraphModel dx="5885" dy="3368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-202" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="-460" width="3780" height="1530" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-22" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="358" width="842.5" height="272.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-23" value="Hull and Facilities Research" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-325" y="438" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekr3Sa7Gujgn25rdjJ_G-24" target="ekr3Sa7Gujgn25rdjJ_G-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-24" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-504" y="438" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-26" value="Norbert&#39;s Research Chamber" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-314" y="88" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-27" value="Sacrificial Chamber" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-504" y="88" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-28" value="Norbert&#39;s Church" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-409" y="88" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-29" value="Biological Research" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-325" y="528" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-30" value="Agricultural Research" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-414" y="438" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-31" value="Medical" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-414" y="528" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekr3Sa7Gujgn25rdjJ_G-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-204" y="896" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-33" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-274" y="876" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-34" value="First Level Living Quarters" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-345" y="618" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-36" value="Navigation Centre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-494" y="618" width="133" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-65" value="Central Command" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-494" y="688" width="138" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-69" value="Stairs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-591" y="446" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-71" value="Stairs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="884" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-72" value="Recreation Area" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-489" y="838" width="203" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-74" value="Court" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-489" y="493" width="58" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-76" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="350" y="361" width="842.5" height="272.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekr3Sa7Gujgn25rdjJ_G-79" target="ekr3Sa7Gujgn25rdjJ_G-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-79" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="636" y="441" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-80" value="Food Production" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="636" y="86" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekr3Sa7Gujgn25rdjJ_G-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="936" y="899" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-88" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="866" y="879" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-89" value="Second Level Living Quarters" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="642" y="226" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-90" value="Security Facilities" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="774" width="50" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-91" value="Maintenance Facilities" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="750" y="228" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-92" value="Stairs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="549" y="449" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-93" value="Stairs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="939" y="884" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-94" value="Temporary Holding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="696" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-96" value="Water Recycling and Filtration" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="776" y="86" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-97" value="Nuclear Reactor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="642" y="806" width="108" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-102" value="Fabrication Facilities" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="642" y="696" width="108" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-103" value="Secure&lt;div&gt;Storage&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="772" width="44" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-104" value="Scientific Quarters and Council" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-494" y="188" width="248" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-105" value="Spa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-494" y="318" width="38" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-106" value="Surface Research Facilities" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-446" y="318" width="107" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-107" value="Mess Hall" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-326" y="318" width="76" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-108" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="340" width="842.5" height="272.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekr3Sa7Gujgn25rdjJ_G-113">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1996" y="878" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-113" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1926" y="858" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-118" value="Stairs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1999" y="863" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-124" value="Waste Management&lt;div&gt;and&lt;/div&gt;&lt;div&gt;Recycling&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="63" width="80" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-125" value="Morgue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1772.5" y="68" width="102.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-126" value="Third Level&lt;div&gt;Living&lt;/div&gt;&lt;div&gt;Quarters&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="68" width="70" height="825" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-127" value="Second Level Security" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="558" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-128" value="Stair Security" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="858" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-129" value="Transport Vessel Buffer Zone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1889" y="590" width="70" height="248" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-130" value="Hazardous Materials Storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="590" width="100" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-131" value="Manual Labour" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="431" width="180" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-133" value="Bath" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="388" width="90" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-134" value="Bath" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="389" width="150" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-135" value="Prison" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1772.5" y="138" width="100" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-136" value="Electrical" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="642" y="490" width="96" height="198" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-137" value="Workers Council" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="436" width="206" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-138" value="Recreation Area" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="746" y="493" width="154" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-139" value="Kitchen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="746" y="560.5" width="154" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-140" value="Storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="746" y="633.5" width="154" height="54.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-141" value="Medical" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="826" y="696" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-142" value="Buffer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="871" y="776" width="30" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekr3Sa7Gujgn25rdjJ_G-145" target="ekr3Sa7Gujgn25rdjJ_G-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-145" value="Norberts secret facilities can be used to&amp;nbsp;&lt;div&gt;develop powerful tools for survival.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="94.5" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekr3Sa7Gujgn25rdjJ_G-147" target="ekr3Sa7Gujgn25rdjJ_G-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-147" value="The Scientists quarter are roomier with more luxuries.&amp;nbsp;&lt;div&gt;The Council is where edicts are passed.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="206.5" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekr3Sa7Gujgn25rdjJ_G-151" target="ekr3Sa7Gujgn25rdjJ_G-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-151" value="The Navigation Centre is used to view the&lt;div&gt;&amp;nbsp;various maps and set a course.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="656" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekr3Sa7Gujgn25rdjJ_G-153" target="ekr3Sa7Gujgn25rdjJ_G-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-153" value="The agricultural, hull and facilities, and&amp;nbsp;&lt;div&gt;biological research are used to develop tech trees.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="361" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ekr3Sa7Gujgn25rdjJ_G-155" target="ekr3Sa7Gujgn25rdjJ_G-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-155" value="The court is where individuals or groups faiths are decided by the ruling party" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1180" y="493" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ekr3Sa7Gujgn25rdjJ_G-157" target="ekr3Sa7Gujgn25rdjJ_G-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-157" value="The quality of food can varied and be divided between&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;the&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;levels differently. Providing better food to different sections&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;will provide&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;benefits,&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;such as faster research time, maintenance, or waste management.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="458" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-169" value="The spa raises the morale of all first level crew, but at the expense of angering the lower levels." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1060" y="318" width="530" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=0.676;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ekr3Sa7Gujgn25rdjJ_G-105" target="ekr3Sa7Gujgn25rdjJ_G-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ekr3Sa7Gujgn25rdjJ_G-171" target="ekr3Sa7Gujgn25rdjJ_G-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-171" value="Menu for creating new parts." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="730" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekr3Sa7Gujgn25rdjJ_G-174" target="ekr3Sa7Gujgn25rdjJ_G-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-174" value="Main power source for the submarine. The reactor can be held hostage if the crew gets too upset" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="844" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekr3Sa7Gujgn25rdjJ_G-176" target="ekr3Sa7Gujgn25rdjJ_G-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-176" value="Crew can be assigned to security detail, but require equipment and extra rations. Employing to much security result in the upper level being taken over." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="960" width="820" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekr3Sa7Gujgn25rdjJ_G-178" target="ekr3Sa7Gujgn25rdjJ_G-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-178" value="The submarines main electrical centre. The submarine lacks sufficient power to fully power all facilities." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="504.5" width="570" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ekr3Sa7Gujgn25rdjJ_G-180" target="ekr3Sa7Gujgn25rdjJ_G-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-180" value="The workers council can demand better conditions for workers and begin strikes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="980" y="358" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekr3Sa7Gujgn25rdjJ_G-182" target="ekr3Sa7Gujgn25rdjJ_G-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-182" value="Maintenance crew keep the submarine in good condition.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="211.5" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekr3Sa7Gujgn25rdjJ_G-184" target="ekr3Sa7Gujgn25rdjJ_G-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-184" value="Food production includes yeast nutrients and harvesting meat trees." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="94.5" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekr3Sa7Gujgn25rdjJ_G-186" target="ekr3Sa7Gujgn25rdjJ_G-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-186" value="The submarine can hold a small quantity of purified water.&lt;div&gt;&amp;nbsp;In areas where the water is extremely toxic, water may become scarce and slow to filter.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="960" y="63" width="490" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekr3Sa7Gujgn25rdjJ_G-189" target="ekr3Sa7Gujgn25rdjJ_G-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-189" value="Manual labour includes unskilled, dangerous, or dull jobs." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1999" y="449" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekr3Sa7Gujgn25rdjJ_G-191" target="ekr3Sa7Gujgn25rdjJ_G-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-191" value="Any waste is recycled here for future use" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="134.5" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekr3Sa7Gujgn25rdjJ_G-193" target="ekr3Sa7Gujgn25rdjJ_G-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-193" value="The prison can hold Norbert&#39;s follower so they can be interrogated later.&amp;nbsp;&lt;div&gt;The prison can also hold any other crew members that are causing trouble.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="300" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekr3Sa7Gujgn25rdjJ_G-197" target="ekr3Sa7Gujgn25rdjJ_G-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-197" value="A lottery is typically used to decide who will explore outside the submarine.&lt;div&gt;&amp;nbsp;On rare occasions, people may volunteer.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="603" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ekr3Sa7Gujgn25rdjJ_G-203" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;S.S. Envelop Interior&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#72839E;" vertex="1" parent="1">
+          <mxGeometry x="-74" y="-420" width="1550" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
