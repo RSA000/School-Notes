@@ -1,0 +1,1093 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Page-1" id="8aUHlhGBbckbftEH0xR9">
+    <mxGraphModel dx="8390" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-2" value="&lt;h1&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Fantod Crew&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#749174;" parent="1" vertex="1">
+          <mxGeometry x="-1780" y="-140" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XZpaEk4sSjdcldhfkn0V-5" target="XZpaEk4sSjdcldhfkn0V-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XZpaEk4sSjdcldhfkn0V-5" target="XZpaEk4sSjdcldhfkn0V-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XZpaEk4sSjdcldhfkn0V-5" target="XZpaEk4sSjdcldhfkn0V-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XZpaEk4sSjdcldhfkn0V-5" target="XZpaEk4sSjdcldhfkn0V-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XZpaEk4sSjdcldhfkn0V-5" target="XZpaEk4sSjdcldhfkn0V-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XZpaEk4sSjdcldhfkn0V-5" target="XZpaEk4sSjdcldhfkn0V-102" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XZpaEk4sSjdcldhfkn0V-5" target="XZpaEk4sSjdcldhfkn0V-104" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XZpaEk4sSjdcldhfkn0V-5" target="XZpaEk4sSjdcldhfkn0V-147" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZpaEk4sSjdcldhfkn0V-5" target="VAwB5ETcgbmX8kY6HmwC-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZpaEk4sSjdcldhfkn0V-5" target="VAwB5ETcgbmX8kY6HmwC-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZpaEk4sSjdcldhfkn0V-5" target="VAwB5ETcgbmX8kY6HmwC-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZpaEk4sSjdcldhfkn0V-5" target="VAwB5ETcgbmX8kY6HmwC-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZpaEk4sSjdcldhfkn0V-5" target="VAwB5ETcgbmX8kY6HmwC-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZpaEk4sSjdcldhfkn0V-5" target="VAwB5ETcgbmX8kY6HmwC-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZpaEk4sSjdcldhfkn0V-5" target="VAwB5ETcgbmX8kY6HmwC-200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-248" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZpaEk4sSjdcldhfkn0V-5" target="VAwB5ETcgbmX8kY6HmwC-213">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZpaEk4sSjdcldhfkn0V-5" target="VAwB5ETcgbmX8kY6HmwC-264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-285" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZpaEk4sSjdcldhfkn0V-5" target="VAwB5ETcgbmX8kY6HmwC-277">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-5" value="&lt;h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;Tech Tree&lt;/span&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#092C3B;" parent="1" vertex="1">
+          <mxGeometry x="770" y="-140" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XZpaEk4sSjdcldhfkn0V-7" target="VAwB5ETcgbmX8kY6HmwC-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZpaEk4sSjdcldhfkn0V-7" target="VAwB5ETcgbmX8kY6HmwC-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XZpaEk4sSjdcldhfkn0V-7" target="VAwB5ETcgbmX8kY6HmwC-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-7" value="&lt;h1&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Other Vessels&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D9900;" parent="1" vertex="1">
+          <mxGeometry x="-4240" y="-140" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#333333;fontFamily=Times New Roman;" parent="1" source="XZpaEk4sSjdcldhfkn0V-9" target="XZpaEk4sSjdcldhfkn0V-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-9" value="Hull Anodes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="910" y="150" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#333333;" parent="1" source="XZpaEk4sSjdcldhfkn0V-10" target="XZpaEk4sSjdcldhfkn0V-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-10" value="Hull anodes protect the outer hull by acting as a sacrificial metal. Anodes decay over time and need to be replaced. If the Envelop runs out of anodes, the outer hull will begin to erode and cause major damage." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="205" width="130" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XZpaEk4sSjdcldhfkn0V-12" target="XZpaEk4sSjdcldhfkn0V-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-12" value="Consequence" style="rhombus;whiteSpace=wrap;html=1;fillColor=#990000;" parent="1" vertex="1">
+          <mxGeometry x="1215" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-14" value="Repairing the outer hull is an arduous task. It requires surfacing and sending out a crew to patch any major corrosion. The transport vessels are also required for repairs below the Envelop. The Envelop can only be repaired a handful of times before damage cannot be repaired.&lt;div&gt;Crew can either volunteer or be coerced to join the scuba crew, which can result in deaths or direct exposure to contaminated water.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="1515" y="175" width="190" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#333333;fontFamily=Times New Roman;" parent="1" source="XZpaEk4sSjdcldhfkn0V-16" target="XZpaEk4sSjdcldhfkn0V-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#333333;fontFamily=Times New Roman;" parent="1" source="XZpaEk4sSjdcldhfkn0V-16" target="XZpaEk4sSjdcldhfkn0V-112" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-16" value="Minisubmarine (transport vessel) upgrades" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="660" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XZpaEk4sSjdcldhfkn0V-18" target="XZpaEk4sSjdcldhfkn0V-110" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-18" value="Articulate control limbs" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#333333;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="530" y="360" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" target="XZpaEk4sSjdcldhfkn0V-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="455" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" target="XZpaEk4sSjdcldhfkn0V-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="455" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-25" value="Less danger in repairing the outer hull. Requires research, hydraulic equipment, and a rare control board." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="250" y="320" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-30" value="Advance exploration of undersea wreck will reveal more salvage." style="whiteSpace=wrap;html=1;rounded=0;fillColor=#333333;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="250" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#333333;fontFamily=Times New Roman;" parent="1" source="XZpaEk4sSjdcldhfkn0V-36" target="XZpaEk4sSjdcldhfkn0V-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-36" value="Flavouring" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="910" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="1" source="XZpaEk4sSjdcldhfkn0V-37" target="XZpaEk4sSjdcldhfkn0V-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="XZpaEk4sSjdcldhfkn0V-37" target="XZpaEk4sSjdcldhfkn0V-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-37" value="Yeast sludge with flavourless meat lower moral. Sugar is one option, but reduces yeast nutrients. The lab can synthesize flavours to add to the daily meals to improve morale." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="800" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XZpaEk4sSjdcldhfkn0V-40" target="XZpaEk4sSjdcldhfkn0V-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-40" value="Decipher Norberts Texts." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="660" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#333333;fontFamily=Times New Roman;" parent="1" source="XZpaEk4sSjdcldhfkn0V-41" target="XZpaEk4sSjdcldhfkn0V-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-41" value="Benefits" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=880;fillColor=#006633;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="790" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-42" value="Crew morale will fall less with every meal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="1570" y="750" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="XZpaEk4sSjdcldhfkn0V-43" target="XZpaEk4sSjdcldhfkn0V-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-43" value="Consequence" style="rhombus;whiteSpace=wrap;html=1;fillColor=#990000;" parent="1" vertex="1">
+          <mxGeometry x="1285" y="878.75" width="65" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-44" value="Resources are needed. Sugar reduces the food supply and is rare later on. Flavouring require less resources, but have adverse effects." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="1570" y="850.62" width="120" height="122.5" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XZpaEk4sSjdcldhfkn0V-50" target="XZpaEk4sSjdcldhfkn0V-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XZpaEk4sSjdcldhfkn0V-50" target="XZpaEk4sSjdcldhfkn0V-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-50" value="Norbert&#39;s writing are encoded, but reveal important information about the sea for survival." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="590" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XZpaEk4sSjdcldhfkn0V-52" target="XZpaEk4sSjdcldhfkn0V-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-52" value="Benefits" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=880;fillColor=#006633;" parent="1" vertex="1">
+          <mxGeometry x="470" y="700" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#333333;fontFamily=Times New Roman;" parent="1" source="XZpaEk4sSjdcldhfkn0V-53" target="XZpaEk4sSjdcldhfkn0V-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-53" value="Anodes will last longer." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="270" y="630" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XZpaEk4sSjdcldhfkn0V-55" target="XZpaEk4sSjdcldhfkn0V-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-55" value="Consequence" style="rhombus;whiteSpace=wrap;html=1;fillColor=#990000;" parent="1" vertex="1">
+          <mxGeometry x="477.5" y="762.5" width="65" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-56" value="Morale is lowered. Portions of the translated texts reach the crew. This can increase Norbert&#39;s secret following.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="270" y="766.25" width="120" height="122.5" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-57" value="Norbert had detailed knowledge of the various protocols used to end the world scattered throughout his rantings. It appears things will get worse before they get better, with an estimated ten years before the continuous reaction stops. The detailed description of the early stages of this reaction has allowed our fabricator to produce anodes with greater efficiency&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry y="652.5" width="195" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-66" value="Commanding Officers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#009999;" parent="1" vertex="1">
+          <mxGeometry x="-1760" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#333333;fontFamily=Times New Roman;" parent="1" source="XZpaEk4sSjdcldhfkn0V-67" target="XZpaEk4sSjdcldhfkn0V-69" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#333333;fontFamily=Times New Roman;" parent="1" source="XZpaEk4sSjdcldhfkn0V-67" target="XZpaEk4sSjdcldhfkn0V-71" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-67" value="Filtration Systems and Oxygen Recycling" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="910" y="440" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XZpaEk4sSjdcldhfkn0V-69" target="XZpaEk4sSjdcldhfkn0V-74" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-69" value="Oxygen recycling will allow the Envelop to submerge for longer periods of time." style="whiteSpace=wrap;html=1;rounded=0;fillColor=#333333;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="495" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XZpaEk4sSjdcldhfkn0V-71" target="XZpaEk4sSjdcldhfkn0V-74" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-71" value="Filtration systems will purify outside air" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#333333;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-73" value="Air filtration systems need replacement filters. Alternatives, such as rags or other fabrics, can be used if no filters are available, but will contaminate submarine." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="1455" y="450" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XZpaEk4sSjdcldhfkn0V-74" target="XZpaEk4sSjdcldhfkn0V-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XZpaEk4sSjdcldhfkn0V-74" target="XZpaEk4sSjdcldhfkn0V-78" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-74" value="Consequence" style="rhombus;whiteSpace=wrap;html=1;fillColor=#990000;" parent="1" vertex="1">
+          <mxGeometry x="1265" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-78" value="Carbon scrubbers and storage tanks are needed for prolonged dives." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="1455" y="635" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XZpaEk4sSjdcldhfkn0V-102" target="XZpaEk4sSjdcldhfkn0V-121" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XZpaEk4sSjdcldhfkn0V-102" target="XZpaEk4sSjdcldhfkn0V-122" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-102" value="Observation Balloons" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="660" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-104" value="Long-range Torpedo" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;fillColor=#66B2FF;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="660" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-110" value="Benefits" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=880;fillColor=#006633;" parent="1" vertex="1">
+          <mxGeometry x="410" y="430" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="XZpaEk4sSjdcldhfkn0V-112" target="XZpaEk4sSjdcldhfkn0V-115" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-112" value="Lower collection limbs" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#333333;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="530" y="190" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-114" value="Allows for heavy items to be move or collected" style="whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="250" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="1" source="XZpaEk4sSjdcldhfkn0V-115" target="XZpaEk4sSjdcldhfkn0V-114" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-115" value="Benefits" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=880;fillColor=#006633;" parent="1" vertex="1">
+          <mxGeometry x="418" y="190" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XZpaEk4sSjdcldhfkn0V-121" target="XZpaEk4sSjdcldhfkn0V-124" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-121" value="Benefits" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=880;fillColor=#006633;" parent="1" vertex="1">
+          <mxGeometry x="440" y="961.88" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XZpaEk4sSjdcldhfkn0V-122" target="XZpaEk4sSjdcldhfkn0V-125" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-122" value="Consequence" style="rhombus;whiteSpace=wrap;html=1;fillColor=#990000;" parent="1" vertex="1">
+          <mxGeometry x="445" y="1041.88" width="65" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#333333;fontFamily=Times New Roman;" parent="1" source="XZpaEk4sSjdcldhfkn0V-124" target="XZpaEk4sSjdcldhfkn0V-126" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-124" value="Observation balloons can be deployed to acquire an accurate reading of the surface and detect other vessels." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="270" y="944.38" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#333333;fontFamily=Times New Roman;" parent="1" source="XZpaEk4sSjdcldhfkn0V-125" target="XZpaEk4sSjdcldhfkn0V-130" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-125" value="Balloons cost resources and are frequently lost." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="270" y="1046.88" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-126" value="Unlocks unique discoveries of typically unreachable locations." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="60" y="943.13" width="120" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-130" value="Discovering bad new will lower morale." style="whiteSpace=wrap;html=1;rounded=0;fillColor=#333333;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="60" y="1046.88" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-132" value="Scientific Council" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000066;" parent="1" vertex="1">
+          <mxGeometry x="-1760" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XZpaEk4sSjdcldhfkn0V-133" target="XZpaEk4sSjdcldhfkn0V-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZpaEk4sSjdcldhfkn0V-133" target="XZpaEk4sSjdcldhfkn0V-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZpaEk4sSjdcldhfkn0V-133" target="VAwB5ETcgbmX8kY6HmwC-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-133" value="Operations Department" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#009900;" parent="1" vertex="1">
+          <mxGeometry x="-1830" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XZpaEk4sSjdcldhfkn0V-134" target="XZpaEk4sSjdcldhfkn0V-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-134" value="Navigation Department" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2C2CDE;" parent="1" vertex="1">
+          <mxGeometry x="-1970" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XZpaEk4sSjdcldhfkn0V-135" target="XZpaEk4sSjdcldhfkn0V-136" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-135" value="Executive Officers Assistants" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006633;" parent="1" vertex="1">
+          <mxGeometry x="-1610" y="295" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-136" value="Executive Officers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006633;" parent="1" vertex="1">
+          <mxGeometry x="-1760" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZpaEk4sSjdcldhfkn0V-137" target="VAwB5ETcgbmX8kY6HmwC-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-137" value="Engineering Department" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCC00;" parent="1" vertex="1">
+          <mxGeometry x="-1910" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZpaEk4sSjdcldhfkn0V-138" target="XZpaEk4sSjdcldhfkn0V-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-138" value="Supply Department" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#331A00;" parent="1" vertex="1">
+          <mxGeometry x="-1690" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-139" value="Weapons, Deck, and Combat Systems Department." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC0000;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-140" value="Captain" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#660000;" parent="1" vertex="1">
+          <mxGeometry x="-1760" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XZpaEk4sSjdcldhfkn0V-145" target="XZpaEk4sSjdcldhfkn0V-151" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XZpaEk4sSjdcldhfkn0V-145" target="XZpaEk4sSjdcldhfkn0V-150" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-145" value="Privacy Shades" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#ffffff;fillColor=#333333;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XZpaEk4sSjdcldhfkn0V-146" target="XZpaEk4sSjdcldhfkn0V-148" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XZpaEk4sSjdcldhfkn0V-146" target="XZpaEk4sSjdcldhfkn0V-149" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-146" value="Ear Protection" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#333333;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#333333;fillColor=#333333;fontFamily=Times New Roman;" parent="1" source="XZpaEk4sSjdcldhfkn0V-147" target="XZpaEk4sSjdcldhfkn0V-146" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#333333;fillColor=#333333;fontFamily=Times New Roman;" parent="1" source="XZpaEk4sSjdcldhfkn0V-147" target="XZpaEk4sSjdcldhfkn0V-145" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="XZpaEk4sSjdcldhfkn0V-147" target="XZpaEk4sSjdcldhfkn0V-146" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="XZpaEk4sSjdcldhfkn0V-147" target="XZpaEk4sSjdcldhfkn0V-145" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-147" value="Lower Level Sleeping Conditions" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;fillColor=#66B2FF;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="910" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XZpaEk4sSjdcldhfkn0V-148" target="XZpaEk4sSjdcldhfkn0V-152" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-148" value="Benefits" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=70.00000000000091;fillColor=#006633;" parent="1" vertex="1">
+          <mxGeometry x="1315" y="1030.63" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XZpaEk4sSjdcldhfkn0V-149" target="XZpaEk4sSjdcldhfkn0V-153" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-149" value="Consequence" style="rhombus;whiteSpace=wrap;html=1;fillColor=#990000;" parent="1" vertex="1">
+          <mxGeometry x="1315" y="1101.25" width="65" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XZpaEk4sSjdcldhfkn0V-150" target="XZpaEk4sSjdcldhfkn0V-154" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-150" value="Benefits" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=880;fillColor=#006633;" parent="1" vertex="1">
+          <mxGeometry x="1315" y="1182.5" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XZpaEk4sSjdcldhfkn0V-151" target="XZpaEk4sSjdcldhfkn0V-155" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-151" value="Consequence" style="rhombus;whiteSpace=wrap;html=1;fillColor=#990000;" parent="1" vertex="1">
+          <mxGeometry x="1315" y="1251.25" width="65" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-152" value="Morale rises with better sleeping conditions." style="whiteSpace=wrap;html=1;fillColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="1495" y="1010.0000000000001" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-153" value="Plastics are required for production" style="whiteSpace=wrap;html=1;fillColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="1495" y="1099.3700000000001" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-154" value="Morale increase" style="whiteSpace=wrap;html=1;fillColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="1495" y="1181.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-155" value="Difficult to monitor lower level population." style="whiteSpace=wrap;html=1;fillColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="1495" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XZpaEk4sSjdcldhfkn0V-171" target="XZpaEk4sSjdcldhfkn0V-140" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XZpaEk4sSjdcldhfkn0V-171" target="XZpaEk4sSjdcldhfkn0V-132" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XZpaEk4sSjdcldhfkn0V-171" target="XZpaEk4sSjdcldhfkn0V-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XZpaEk4sSjdcldhfkn0V-171" target="VAwB5ETcgbmX8kY6HmwC-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-171" value="&lt;h3&gt;Upper Level&lt;/h3&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#4564C4;" parent="1" vertex="1">
+          <mxGeometry x="-1460" y="95" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZpaEk4sSjdcldhfkn0V-174" target="XZpaEk4sSjdcldhfkn0V-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZpaEk4sSjdcldhfkn0V-174" target="VAwB5ETcgbmX8kY6HmwC-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZpaEk4sSjdcldhfkn0V-174" value="&lt;h3&gt;Middle Level&lt;/h3&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#506A85;" parent="1" vertex="1">
+          <mxGeometry x="-2180" y="345" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-1" target="VAwB5ETcgbmX8kY6HmwC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-1" value="Food Production" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333300;" vertex="1" parent="1">
+          <mxGeometry x="-1690" y="565" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-2" value="Water Systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="-1550" y="565" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-5" target="VAwB5ETcgbmX8kY6HmwC-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-5" value="Morgue" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1760" y="663.12" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-6" target="VAwB5ETcgbmX8kY6HmwC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-6" target="VAwB5ETcgbmX8kY6HmwC-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-6" value="High-risk Manual Labour and hazardous materials handling" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="-1620" y="663.12" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-7" target="VAwB5ETcgbmX8kY6HmwC-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-7" target="VAwB5ETcgbmX8kY6HmwC-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-7" target="VAwB5ETcgbmX8kY6HmwC-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-7" value="Outside Exploration&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="663.12" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-8" target="VAwB5ETcgbmX8kY6HmwC-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-8" value="Prison" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#190033;" vertex="1" parent="1">
+          <mxGeometry x="-1910" y="663.12" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="VAwB5ETcgbmX8kY6HmwC-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1290" y="693.12" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="VAwB5ETcgbmX8kY6HmwC-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1170" y="693.12" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-9" value="&lt;h3&gt;Lower Level&lt;/h3&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#121212;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="635" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-14" target="VAwB5ETcgbmX8kY6HmwC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-14" value="Oxygen Recycling" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="-1830" y="565" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1290" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-16" value="Medical" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00C4C4;" vertex="1" parent="1">
+          <mxGeometry x="-1770" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-18" target="VAwB5ETcgbmX8kY6HmwC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;The upper level begins with a population of 500 people. They are trained and can work on tasks. The captain, scientific council, and commanding officers deliberate major decisions. Siding with the scientific council can result in better technology bonuses, while siding with the commanding officers may improve the conditions of the crew.&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="170" width="190" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-20" target="VAwB5ETcgbmX8kY6HmwC-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-20" target="VAwB5ETcgbmX8kY6HmwC-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-20" value="Morale Dilemma" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#006633;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="255" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#333333;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-21" target="VAwB5ETcgbmX8kY6HmwC-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-21" value="&lt;font face=&quot;Times New Roman&quot;&gt;The scientists claim they can improve the lives of everyone but at the cost of using the lower crew as test subjects. This would eventually lead to subjugating the lower levels entirely. This could improve the long-term survival chances of the ship.&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="100" width="200" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-22" value="&lt;font face=&quot;Times New Roman&quot;&gt;If given free reign, the scientific council may conduct morally questionable experiments and research. Furthermore, some of this research will only lower morale and yield no results&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="85" width="160" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#333333;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-28" target="VAwB5ETcgbmX8kY6HmwC-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-28" value="&lt;font face=&quot;Times New Roman&quot;&gt;The commanding officers are essential for keeping the crew in good condition and navigating the world and its dangers. They insist on finding any remaining survivors to either negotiate with or destroy. Ending on the top of the hierarchy in the new world is the officers&#39; main concern.&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="375" width="230" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-29" value="&lt;font face=&quot;Times New Roman&quot;&gt;Some valuable scientific materials may be used for weapons and defensive systems. Some exploration may be limited or require additional material if deemed unsafe. Officers may decide to destroy any survivors instead of contacted them if they pose to large of a threat&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="370" width="190" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-42" target="VAwB5ETcgbmX8kY6HmwC-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-42" target="VAwB5ETcgbmX8kY6HmwC-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-42" value="&lt;font face=&quot;Times New Roman&quot;&gt;Allows the Envelops somewhat meager torpedos to be controlled over long distances. When paired with observation balloons, ships can be detected and sunk before they even know of the Envelops existence. Long-range sneak attacks are the primary means of attack by the Envelop due to its size.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1200" width="140" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.917;entryY=0.376;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XZpaEk4sSjdcldhfkn0V-104" target="VAwB5ETcgbmX8kY6HmwC-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-44" value="Better defensive and offensive capabilities." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1251.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-45" target="VAwB5ETcgbmX8kY6HmwC-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-45" value="Benefits" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=880;fillColor=#006633;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1251.25" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-46" target="VAwB5ETcgbmX8kY6HmwC-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-46" value="Consequence" style="rhombus;whiteSpace=wrap;html=1;fillColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="335" y="1351.25" width="65" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-47" value="Production is expensive and requires parts from the science departments." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1356.25" width="130" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-52" target="VAwB5ETcgbmX8kY6HmwC-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-52" value="Self-destruct Protocols" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-54" target="VAwB5ETcgbmX8kY6HmwC-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-54" target="VAwB5ETcgbmX8kY6HmwC-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-54" value="The Envelops last line of defence is to threaten self-destruction via the nuclear generator. Setting such protocols in motion may be enough to prevent boarding." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1400" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-56" target="VAwB5ETcgbmX8kY6HmwC-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-56" value="Benefits" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=880;fillColor=#006633;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1390" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-57" target="VAwB5ETcgbmX8kY6HmwC-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-57" value="Consequence" style="rhombus;whiteSpace=wrap;html=1;fillColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1450" width="65" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-58" value="&lt;font face=&quot;Times New Roman&quot;&gt;Modifying the reactor to explode can create a powerful bargaining chip if it where to ever be taken over in a mutiny.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="1470" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-59" value="Another line of defence against boarding parties and attacks." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="1356.25" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-66" value="&lt;font face=&quot;Times New Roman&quot;&gt;The lower levels have a population of 2,500 and consists of individuals who managed to make it to the submarine, but had little skills or low social ranking. First thought as supplementary force, their true purpose as sacrificial lambs and test rats became clear after Norbert&#39;s death. After his death, a somewhat stable understanding between three levels was established. Whether things follow Norbert&#39;s trajectory is a player decision.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-1130" y="784.37" width="270" height="151.25" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-67" value="&lt;font face=&quot;Times New Roman&quot;&gt;The middle levels begin with a population of 2,000 and have workers that negotiates with with the upper levels. The middle level consists of skilled labour for day-to-day operations, navigation, maintenance, food production, weapons systems, and medical care.&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-2470" y="405" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-70" value="&lt;font face=&quot;Times New Roman&quot;&gt;A rectangular room line with tubes stacked horizontally lengthwise to the the wall. A person can only lay down and lift their head slightly while inside. The guard generally consist of middle level occupants.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-2300" y="795.62" width="300" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-72" target="VAwB5ETcgbmX8kY6HmwC-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-72" target="VAwB5ETcgbmX8kY6HmwC-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-72" value="&lt;font&gt;Bean-bag Rounds.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-73" target="VAwB5ETcgbmX8kY6HmwC-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-73" value="Benefits" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=880;fillColor=#006633;" vertex="1" parent="1">
+          <mxGeometry x="525" y="1535" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-74" target="VAwB5ETcgbmX8kY6HmwC-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-74" value="Consequence" style="rhombus;whiteSpace=wrap;html=1;fillColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1635" width="65" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-76" value="&lt;font face=&quot;Times New Roman&quot;&gt;Body disposal or recycling preparation area. Suppose bodies are to be recycled into the food supply it&#39;s best to keep it discreet. The more bodies that are recycled, the likelier it is the crew will find out.&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-1880" y="850.62" width="200" height="101.25" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.452;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-5" target="VAwB5ETcgbmX8kY6HmwC-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-78" target="VAwB5ETcgbmX8kY6HmwC-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-78" value="Waste Management and Recycling" style="whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="-1550" y="768.12" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-81" value="&lt;font face=&quot;Times New Roman&quot;&gt;High-risk labour and hazardous materials deals with outside salvage and processing resources for use or research. Depending on the material, the mortality rate of this section is high.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-1790" y="988.12" width="260" height="111.25" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-83" value="&lt;font face=&quot;Times New Roman&quot;&gt;Outside exploration allows for crew to enter the exploration vessels and gear up for outer hull repairs or going topside. There is a chance of being boarded from this section.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="862.5" width="200" height="98.75" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-85" value="&lt;font face=&quot;Times New Roman&quot;&gt;Waste management processes the human waste on board the Envelop. The lower levels always have a certain degree of control over this section.&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-1490" y="1010" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-90" value="&lt;font face=&quot;Times New Roman&quot;&gt;Medical handles sick or injured crew. It can also act as a means for discretely acquiring test subjects&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="455" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#333333;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-91" target="VAwB5ETcgbmX8kY6HmwC-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#333333;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-91" target="VAwB5ETcgbmX8kY6HmwC-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-296" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-91" target="VAwB5ETcgbmX8kY6HmwC-295">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-91" value="&lt;font face=&quot;Times New Roman&quot;&gt;Little remains after the initial storm. What does remain are military vessels that have formed their own alliances and governments after the fall of their own. There are two large fleets from what was previously China and Russia, with smaller craft belonging to other minor countries. The Envelop will most likely encounter scouts before detecting the fleet. The two remaining fleets are at war with one another, and siding with one usually means siding against the other. A third option is to attempt to play against the middle and weaken both sides. The other subs used similar methods of diving deep to wait out the initial storm but weren&#39;t prepared for such extended period of time under. Most survived on systems only meant to sustain basic life for a couple weeks. Cannibalism became frequent. Other ships where lost when their oxygen recycling systems burnt out from overuse.&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-4430" y="170" width="540" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-93" value="&lt;font face=&quot;Times New Roman&quot;&gt;While the fleets have numbers and weapons superiority, the Envelop can dive deeper and run away undetected in deep enough water. Depth charges are rare but can cripple the sub at the bottom of the ocean.&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-4480" y="377.5" width="160" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-94" value="&lt;font face=&quot;Times New Roman&quot;&gt;The surviving fleets are desperately underprepared for supplying their own food, excessive nutrient stores can be bargained for protection, escorts, and parts.&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-4010" y="375" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#333333;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-98" target="VAwB5ETcgbmX8kY6HmwC-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-187" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-98" target="VAwB5ETcgbmX8kY6HmwC-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-98" value="&lt;font face=&quot;Times New Roman&quot;&gt;Ocean crawlers are large research vessels used by deep-sea research facilities. Finding an ocean crawler may lead to underwater research facilities or allow the Envelop to take on more crew and rare equipment. Researchers from these vessels are typically recruited to the upper level. Some crawlers may be loyal to another fleet and be hostile to approach&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-3780" y="170" width="450" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-102" value="&lt;font face=&quot;Times New Roman&quot;&gt;Crawlers are not dangerous to the sub, but attempting to dock a hostile crawler could result in deaths during the takeover.&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-3520" y="320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#333333;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-107" target="VAwB5ETcgbmX8kY6HmwC-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-107" value="&lt;font face=&quot;Times New Roman&quot;&gt;Four heavily armed submarines from the United States survived, but are hostile to any outsiders. They appear to be guarding a particular region off the coast of Florida.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-5070" y="180" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#333333;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-110" target="VAwB5ETcgbmX8kY6HmwC-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-110" value="&lt;font face=&quot;Helvetica&quot;&gt;Chine and Russia&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-4220" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#333333;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-111" target="VAwB5ETcgbmX8kY6HmwC-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-111" value="&lt;font face=&quot;Helvetica&quot;&gt;United States&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-4910" y="95" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#333333;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-112" target="VAwB5ETcgbmX8kY6HmwC-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-112" target="VAwB5ETcgbmX8kY6HmwC-259">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-112" value="&lt;font face=&quot;Helvetica&quot;&gt;Mixed&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-3370" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-120" value="&lt;font face=&quot;Times New Roman&quot;&gt;The submarines are protecting the last remnants of the United States Government, sheltering in a modified deep-sea cavity created from a massive oil deposit long emptied.&amp;nbsp; A small complex exists with a massive gene bank of all the earths animals and plants. If theres any chance of creating a world similar to the one before, this facility must remain in tact.&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-5070" y="265" width="440" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-122" value="Riots may last longer, constructing beanbag rounds requires fabrics." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-123" value="Less lethal riot suppression." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-128" target="VAwB5ETcgbmX8kY6HmwC-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-128" target="VAwB5ETcgbmX8kY6HmwC-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-128" target="VAwB5ETcgbmX8kY6HmwC-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-128" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Other Life&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="-6260" y="-135" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-129" value="&lt;font face=&quot;Times New Roman&quot;&gt;Little of what is known of the inland areas would indicate that no life could exist in such thick clouds and storms. Some more sophisticated shelters may exist, but they would be restricted from any kind of movement or outside communication. The observation balloons can reveal some clues to the inland environment in the early years. Overgrown meat forests that emit a sound similar to moaning, potential mutant humans that are somehow surviving the environment, and a distant light can be discovered.&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-6750" y="55" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-130" value="&lt;font face=&quot;Times New Roman&quot;&gt;Deep-sea research facilities are scattered across the sea floor in various states. The direction of the research conducted varies; some explored pressure and current patterns, while others sought the bottom of the ocean to conduct research not permitted anywhere else.&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2024px%3B%26quot%3B%26gt%3BOther%20Vessels%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%234D9900%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-3830%22%20y%3D%22-135%22%20width%3D%22160%22%20height%3D%22140%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&amp;nbsp;While small and containing populations between 100-200 people, the facilities are self-sufficient. One facility was tasked with making a new variant of Humanzee and pursued creating new life from human DNA after they were stranded in the apocalypse. The researchers believed that with all other life on earth dead, all future life would need to stem from human DNA.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-5880" y="45" width="310" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#333333;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-134" target="VAwB5ETcgbmX8kY6HmwC-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-134" value="The sea is undergoing rapid changes in temperature, PH, and current. The remaining life affected by the genome chain reaction evolve and mutate rapidly in an attempt to survive. Some species survive and flourish, while other creatures are unique abominations." style="whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-6415" y="55" width="470" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-135" target="VAwB5ETcgbmX8kY6HmwC-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-135" value="Air Conditioning upgrades." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#333333;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-137" target="VAwB5ETcgbmX8kY6HmwC-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#333333;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-137" target="VAwB5ETcgbmX8kY6HmwC-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#333333;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-137" target="VAwB5ETcgbmX8kY6HmwC-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#333333;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-137" target="VAwB5ETcgbmX8kY6HmwC-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-137" value="While the initial storms stalled the genome chain reaction, afflicted life still exists and can affect the crew if they consume them or come in close contact for prolonged periods of time. A second genome reaction within the submarine will cause the crew to homogenous into a single living mutant creature trapped within the submarine; this is a game over." style="whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-6412.5" y="182.5" width="465" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-138" target="VAwB5ETcgbmX8kY6HmwC-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-138" target="VAwB5ETcgbmX8kY6HmwC-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-138" value="Some areas reach temperatures that require constant air conditioning. Upgrading the air conditioning systems allows the sub to explore warmer areas for longer.&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1675" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-141" target="VAwB5ETcgbmX8kY6HmwC-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-141" value="Consequence" style="rhombus;whiteSpace=wrap;html=1;fillColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="1660" width="65" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-143" value="The AC can only run so long before overheating. It can be cooled with purified water similar to the nuclear reactor." style="whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1485" y="1620" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-146" target="VAwB5ETcgbmX8kY6HmwC-251">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-146" value="Some forms of crustaceans exist on the sea floor. As the years progress, the initially speck like crabs begin to grow in size with some reaching up to 40 kilograms in weight. In the early years, crab meat can be used as a last resort meal for crew. In the later years this is still true, but the crabs pose a much higher risk to capture.&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-6580" y="325" width="175" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-147" value="One whale has survived and developed super intelligence and telepathic abilities. The whale hates humanity and wishes to destroy all remaining vestiges. In the early years, the Whale follows the submarine as an unknown entity. It can&#39;t understand language at first, but slowly learns by listening to the thoughts and dreams of the crew." style="whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-6370" y="325" width="175" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-148" target="VAwB5ETcgbmX8kY6HmwC-253">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-148" value="New fish species are occasionally found but possess nothing more than modified human DNA when examined. They share eerily similar qualities to humans in several aspects, such as the eyes, and colour of the fish; the tails look like a little flattened fleet, the mouths contain human-like teeth; some captured specimens grow have hair." style="whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-6160" y="325" width="175" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-149" value="It appears some of the overgrown meat-forests have spread to the sea in an attempt to escape the gas. Sinew reefs have appeared on some coasts and provide a food supply for giant crabs. Sinew reefs are dangerous to navigate as the submarine can become tangled." style="whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-5955" y="325" width="175" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-156" target="VAwB5ETcgbmX8kY6HmwC-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-156" value="Benefits" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=880;fillColor=#006633;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="1755" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-157" value="Increased exploration capabilities, morale bonus when on." style="whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1485" y="1780" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-160" target="VAwB5ETcgbmX8kY6HmwC-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-160" value="Fermentation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-161" target="VAwB5ETcgbmX8kY6HmwC-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-161" value="Some of the crew in the food department are using the using to ferment alcohol. The player can decide to either crack down on drinking or regulating it." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1835" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-166" target="VAwB5ETcgbmX8kY6HmwC-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-166" target="VAwB5ETcgbmX8kY6HmwC-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-166" value="Morale Dilemma" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#006633;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="1860" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-167" value="Regulating the use and production of alcohol will remove any chance of an underground market appearing within the ship. The downside is the entire crew can become dependent on the substance more easily, creating a permanent choice between using food stores to create alcohol, or using a less efficient crew. The eventual morale buffs from alcohol will fade, requiring the player to increase rations if they want to acquire it again. There is a critical point when drinking heavily becomes unsustainable.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1675" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-168" value="Prohibiting alcohol production will reduce all alcohol-related issues, but increases the risk of the crew finding more dangerous means of acquiring alcohol, such as draining the fuel from the torpedoes or using more means hazardous to recreation, such as inhaling fumes when morale is low. A permanent efficiency buff is enabled when drinking is prohibited, but will trigger certain events and will result in arrests." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1910" width="220" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-174" target="VAwB5ETcgbmX8kY6HmwC-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-174" value="Hair Filtration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-175" target="VAwB5ETcgbmX8kY6HmwC-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-175" target="VAwB5ETcgbmX8kY6HmwC-177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-175" value="The biology department is working on reducing the materials required for water filtration for our crew and nuclear reactor. Results have shown that human hair can be used as a replacement for the early prefiltration phase of the process." style="whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1910" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-176" target="VAwB5ETcgbmX8kY6HmwC-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-176" value="Consequence" style="rhombus;whiteSpace=wrap;html=1;fillColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="1282.5" y="1927.5" width="65" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-177" target="VAwB5ETcgbmX8kY6HmwC-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-177" value="Benefits" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=880;fillColor=#006633;" vertex="1" parent="1">
+          <mxGeometry x="1277.5" y="2022.5" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-178" value="Using hair filters will impart an unpleasant cheesy flavour to the drinking water." style="whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="1880" width="120" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-179" value="Filtration for water is reduced significantly." style="whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="2040" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-186" value="&lt;font face=&quot;Times New Roman&quot;&gt;Some shoreside shelters exist on land in the early years, but cannot move out of storms and perish in the later years. They are typically impervious to any sea attacks and act as secure trading depots.&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-3780" y="302.5" width="165" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-188" target="VAwB5ETcgbmX8kY6HmwC-190">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-188" value="Bio-computers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="660" y="2180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-190" target="VAwB5ETcgbmX8kY6HmwC-193">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-190" value="Biocomputers are used for complex calculation needed by the submarine to remain operational. Improvements to the systems can result in efficiencies throughout the ship. Additionally, research time can be reduced with bio-computers." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="515" y="2125" width="125" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-193" target="VAwB5ETcgbmX8kY6HmwC-194">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-193" value="Consequence" style="rhombus;whiteSpace=wrap;html=1;fillColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2175" width="65" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-194" value="Upgrading the bio-computers requires brains with a rare anomaly. Crew within the higher levels are more likely to have this anomaly, but the way of testing for this anomaly is known for false positives. Several high level crew may need to be sacrificed unless hostages are on board." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2142.5" width="200" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-200" target="VAwB5ETcgbmX8kY6HmwC-203">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-200" value="Radio Frequency Amplifier" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="910" y="2260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-203" target="VAwB5ETcgbmX8kY6HmwC-205">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-203" target="VAwB5ETcgbmX8kY6HmwC-207">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-203" value="The amplifier allows for a greater radius for communication with other vessels or stations.&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="2227.5" width="120" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-205" target="VAwB5ETcgbmX8kY6HmwC-208">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-205" value="Consequence" style="rhombus;whiteSpace=wrap;html=1;fillColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="2217.5" width="65" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-207" target="VAwB5ETcgbmX8kY6HmwC-209">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-207" value="Benefits" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=880;fillColor=#006633;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="2312.5" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-208" value="The larger radius can alert aggressive vessels." style="whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="2180" width="120" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-209" value="Increased communication range." style="whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1455" y="2335" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-213" target="VAwB5ETcgbmX8kY6HmwC-214">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-213" value="Lighting" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="660" y="2475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-214" target="VAwB5ETcgbmX8kY6HmwC-228">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-214" target="VAwB5ETcgbmX8kY6HmwC-229">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-214" value="There are several options for lighting within the Envelop. While the power consumption for lights is minimal, lifespan and rarity of higher powered lights makes rationing their use difficult. Using low lighting for too long can result in a less efficient crew. The day and night cycles can also be modified with the lights to increase the length of working hours for the crew." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="430" y="2409.38" width="180" height="191.25" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-228" target="VAwB5ETcgbmX8kY6HmwC-230">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-228" target="VAwB5ETcgbmX8kY6HmwC-231">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-228" value="Prolonging days effectively lengthens increases productivity and efficiency.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="205" y="2405" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-229" target="VAwB5ETcgbmX8kY6HmwC-232">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-229" target="VAwB5ETcgbmX8kY6HmwC-233">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-229" value="Bright lights can be used to increase morale." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="205" y="2550" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-230" target="VAwB5ETcgbmX8kY6HmwC-237">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-230" value="Benefits" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=880;fillColor=#006633;" vertex="1" parent="1">
+          <mxGeometry x="90" y="2379.07" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-231" target="VAwB5ETcgbmX8kY6HmwC-236">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-231" value="Consequence" style="rhombus;whiteSpace=wrap;html=1;fillColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="2440" width="55" height="59.69" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-232" target="VAwB5ETcgbmX8kY6HmwC-235">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-232" value="Benefits" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=880;fillColor=#006633;" vertex="1" parent="1">
+          <mxGeometry x="90" y="2520" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-233" target="VAwB5ETcgbmX8kY6HmwC-234">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-233" value="Consequence" style="rhombus;whiteSpace=wrap;html=1;fillColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="97.5" y="2580" width="55" height="60.62" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-234" value="Bright lighting bulbs are rare and burn out quickly.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="2620" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-235" value="Productivity is raised" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="2530.63" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-236" value="Crew will eventually become fatigued by prolonged days and may find out. The morale and trust in the captain will decline greatly" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="2424.84" width="125" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-237" value="The crew will unknowingly work longer days with a chance of no morale deficit." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="2352.5" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-251" value="While the Envelop is impenetrable to crabs at all times, remaining still for too long can result in crabs swarming the sub. If the Envelop is stuck at the bottom of the ocean for any reason, it runs a risk of being permanently buried in crabs." style="whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-6580" y="540" width="175" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-253" value="The new man fish are a. byproduct of experiments being conducted at a particular research station. There is a small chance that the crew can catch a talking man-fish. The abomination lowers morale initially, but can be kept as a pet." style="whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-6160" y="545" width="175" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-259" target="VAwB5ETcgbmX8kY6HmwC-261">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-259" value="&lt;font face=&quot;Times New Roman&quot;&gt;A space station still exists in orbit and can be contacted with the right equipment. Contacting them will reveal the secret of the satellite pit. A meteor consisting of Earths satellites struck in the early period of the apocalypse causing massive tsunami&#39;s. The meteor struck a shallow location in Earths Ocean off the coast of lower South America. The astronauts can be convince to re-enter earths atmosphere and join the crew, but require convincing. The satellite images that can be provided by the astronauts are incredibly valuable.&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-3280" y="170" width="450" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-261" value="&lt;font face=&quot;Times New Roman&quot;&gt;Contacting the astronauts requires power and staying within the signal location. Staying in one location can be dangerous.&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-3270" y="316.25" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-267" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-264" target="VAwB5ETcgbmX8kY6HmwC-265">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-264" value="Deep Scanners" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="910" y="2585.63" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-270" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-265" target="VAwB5ETcgbmX8kY6HmwC-268">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-265" target="VAwB5ETcgbmX8kY6HmwC-269">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-265" value="Deep scanners are a collection of pressure resistant cameras and Lidar detection systems that can be used to map the ocean floor accurately. Additionally, the scanner allow the Envelop to detect whats in front and behind it at extreme depths." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="2520" width="180" height="191.25" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-268" target="VAwB5ETcgbmX8kY6HmwC-272">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-268" value="Consequence" style="rhombus;whiteSpace=wrap;html=1;fillColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="2518.13" width="65" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-293" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-269" target="VAwB5ETcgbmX8kY6HmwC-273">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-269" value="Benefits" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=880;fillColor=#006633;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="2613.13" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-272" value="The lidar scanners may anger certain creatures of the deep." style="whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1565" y="2490" width="120" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-273" value="The Envelop can map the sea floor. The yields of exploratory vehicles will increase when scraping the sea floor." style="whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1565" y="2631.25" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-286" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-277" target="VAwB5ETcgbmX8kY6HmwC-278">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-277" value="Steam Suppression Systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="660" y="2780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-278" target="VAwB5ETcgbmX8kY6HmwC-280">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-278" target="VAwB5ETcgbmX8kY6HmwC-282">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-278" value="Steam suppression systems can be installed into the lower levels to keep the population under control.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="430" y="2772.19" width="180" height="75.63" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-280" target="VAwB5ETcgbmX8kY6HmwC-284">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-280" value="Benefits" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=880;fillColor=#006633;" vertex="1" parent="1">
+          <mxGeometry x="310" y="2755.4100000000003" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAwB5ETcgbmX8kY6HmwC-282" target="VAwB5ETcgbmX8kY6HmwC-283">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-282" value="Consequence" style="rhombus;whiteSpace=wrap;html=1;fillColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="330" y="2816.34" width="55" height="59.69" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-283" value="Morale is permanently lowered within the lower levels." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="152.5" y="2816.34" width="125" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-284" value="Security will not have to be sent in every time there is a riot or strike." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="152.5" y="2715" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VAwB5ETcgbmX8kY6HmwC-295" value="&lt;font face=&quot;Times New Roman&quot;&gt;Different tech becomes available if alliances become strong enough with either faction.&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-4240" y="377.5" width="160" height="82.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
